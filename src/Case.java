@@ -8,6 +8,7 @@ public class Case {
         this.aGridPos = new int[2];
         this.aGridPos[0] = pX;
         this.aGridPos[1] = pY;
+
     }
 
     public int getState() { // 0: empty, 1: rouge, 2: jaune
